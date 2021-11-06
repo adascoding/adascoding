@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdasCoding
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning ASP.NET Core
+- 👋 Hi, I’m @Adas
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning .NET Core and Angular
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me ...
 
