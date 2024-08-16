@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adas-alvikas/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:adas.alvikas@gmail.com)
 
 **Welcome to my GitHub page!**  
-I'm a Junior Software Developer with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development.
+I'm a Junior Software Developer based in Kaunas, Lithuania, with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development. I am available for remote work across the EU.
 
 ## 🔧 Technologies & Tools
 
@@ -10,14 +10,14 @@ I'm a Junior Software Developer with a strong background in building robust .NET
 
 ## 🌱 What I'm Currently Learning
 - **Java**: Expanding my backend skills.
-- **Angular & React**: Exploring modern frontend frameworks.
+- **Angular & React**: Exploring frontend frameworks.
 
 ## 💻 Featured Project
 
-### [WarehouseManagerAPI](https://github.com/yourusername/WarehouseManagerAPI)
-Description: A .NET 8 API with Entity Framework and JWT authentication with access and refresh tokens.
+### [WarehouseManagerAPI](https://github.com/adascoding/WarehouseManagerAPI)
+Description: A .NET 8 API using Entity Framework with JWT access and refresh token authentication.
 
 ## 🎯 Goals for 2024
-- Contribute to open-source project.
+- Contribute to open-source projects.
 - Master Java and Spring Boot.
 - Build a frontend project with React or Angular.
