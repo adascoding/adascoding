@@ -1,26 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Adas!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adas-alvikas/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:adas.alvikas@gmail.com)
 
-## Introduction
-Hello, I'm Adas, a recent graduate from Kauno kolegija with a degree in Software Engineering. As an aspiring full-stack developer, I am passionate about creating innovative software solutions and continuously expanding my skill set. This project, the Movie App, is one of the many endeavors I've undertaken to showcase my capabilities in both frontend and backend development.
+**Welcome to my GitHub page!**  
+I'm a Junior Software Developer with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development.
 
-## About the Movie App
-The Movie App is a project developed to demonstrate my proficiency in building web applications using .NET and React technologies. It allows users to browse and search for their favorite movies, view details such as plot, ratings, and reviews.
+## 🔧 Technologies & Tools
 
-## Skills
-- **Frontend Development**: Proficient in React.js, HTML, CSS for building responsive and user-friendly interfaces.
-- **Backend Development**: Experienced in .NET framework for creating robust and scalable server-side applications.
-- **Full-Stack Development**: Skilled in integrating frontend and backend components to deliver end-to-end solutions.
-- **Database Management**: Familiar with SQL databases and data modeling for efficient data storage and retrieval.
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-0A66C2?logo=rest-api&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-## Portfolio Link
-[Movie App](https://github.com/adascoding/MovieApp) - Check out the Movie App project on GitHub to see my skills in action!
+## 🌱 What I'm Currently Learning
+- **Java**: Expanding my backend skills.
+- **Angular & React**: Exploring modern frontend frameworks.
 
-## Hire Me!
-I am currently seeking opportunities to further develop my skills and contribute to exciting projects as a full-stack developer. If you're interested in hiring a dedicated and motivated individual who is passionate about software development, feel free to reach out to me.
+## 💻 Featured Project
 
-## Contact Information
-- Email: [adas.alvikas@gmail.com](mailto:adas.alvikas@gmail.com)
-- LinkedIn: [Adas on LinkedIn](https://www.linkedin.com/in/adas-alvikas/)
-- GitHub: [Adas on GitHub](https://github.com/adascoding)
+### [WarehouseManagerAPI](https://github.com/yourusername/WarehouseManagerAPI)
+Description: A .NET 8 API with Entity Framework and JWT authentication with access and refresh tokens.
 
-Thank you for considering my portfolio. I look forward to connecting with you and discussing potential opportunities!
+## 🎯 Goals for 2024
+- Contribute to open-source project.
+- Master Java and Spring Boot.
+- Build a frontend project with React or Angular.
