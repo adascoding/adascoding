@@ -6,11 +6,18 @@ I'm a Junior Software Developer based in Kaunas, Lithuania, with a strong backgr
 
 ## 🔧 Technologies & Tools
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-0A66C2?logo=rest-api&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-0A66C2?logo=rest-api&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+
+
 
 ## 🌱 What I'm Currently Learning
 - **Java**: Expanding my backend skills.
 - **Angular & React**: Exploring frontend frameworks.
+  
+![MongoDB](https://img.shields.io/badge/-MongoDB-808080?logo=mongodb&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-808080?logo=angular&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-808080?logo=typescript&logoColor=white&style=flat)
+
 
 ## 💻 Featured Project
 
