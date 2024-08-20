@@ -14,8 +14,11 @@ I'm a Junior Software Developer based in Kaunas, Lithuania, with a strong backgr
 
 ## 💻 Featured Project
 
-### [WarehouseManagerAPI](https://github.com/adascoding/WarehouseManagerAPI)
+### [WarehouseManager.API](https://github.com/adascoding/WarehouseManager)
 Description: A .NET 8 API using Entity Framework with JWT access and refresh token authentication.
+
+### [TableServe.API](https://github.com/adascoding/TableServe)
+Description: A RESTful API for restaurant management using .NET, Dapper, and API key authentication for waiters.
 
 ## 🎯 Goals for 2024
 - Contribute to open-source projects.
