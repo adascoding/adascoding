@@ -27,7 +27,11 @@ Description: A .NET 8 API using Entity Framework with JWT access and refresh tok
 ### [TableServe.API](https://github.com/adascoding/TableServe)
 Description: A RESTful API for restaurant management using .NET, Dapper, and API key authentication for waiters.
 
-## 🎯 Goals for 2024
+### [ShorterURL.API](https://github.com/adascoding/ShorterURL)
+
+**Description**: A test project demonstrating a minimal .NET API for URL shortening.
+
+## 🎯 Goals for 2025
 - Contribute to open-source projects.
-- Master Java and Spring Boot.
+- Learn Java and Spring Boot.
 - Build a frontend project with React or Angular.
