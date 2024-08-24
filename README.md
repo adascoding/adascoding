@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adas-alvikas/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:adas.alvikas@gmail.com)
 
 **Welcome to my GitHub page!**  
-I'm a Junior Software Developer based in Kaunas, Lithuania, with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development. I am available for remote work across the EU.
+I'm a Software Developer based in Kaunas, Lithuania, with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development. I am available for remote work across the EU.
 
 ## 🔧 Technologies & Tools
 
@@ -28,8 +28,7 @@ Description: A .NET 8 API using Entity Framework with JWT access and refresh tok
 Description: A RESTful API for restaurant management using .NET, Dapper, and API key authentication for waiters.
 
 ### [ShorterURL.API](https://github.com/adascoding/ShorterURL)
-
-**Description**: A test project demonstrating a minimal .NET API for URL shortening.
+Description: A test project demonstrating a minimal .NET API for URL shortening.
 
 ## 🎯 Goals for 2025
 - Contribute to open-source projects.
