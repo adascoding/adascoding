@@ -11,10 +11,10 @@ I'm a Software Developer based in Kaunas, Lithuania, with a strong background in
 ![Dapper](https://img.shields.io/badge/-Dapper-0E9B8E?logo=generic-technology&logoColor=white&style=flat) 
 
 ## 🌱 What I'm Currently Learning
-- **Java**: Expanding my backend skills.
+- **Blazor**: Expanding my frontend and backend skills with C#.
 - **Angular & React**: Exploring frontend frameworks.
   
-![MongoDB](https://img.shields.io/badge/-MongoDB-808080?logo=mongodb&logoColor=white&style=flat)
+![Blazor](https://img.shields.io/badge/-Blazor-808080?logo=mongodb&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-808080?logo=angular&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-808080?logo=typescript&logoColor=white&style=flat)
 
@@ -32,5 +32,6 @@ Description: A test project demonstrating a minimal .NET API for URL shortening.
 
 ## 🎯 Goals for 2025
 - Contribute to open-source projects.
-- Learn Java and Spring Boot.
+- Build projects with Blazor.
 - Build a frontend project with React or Angular.
+
