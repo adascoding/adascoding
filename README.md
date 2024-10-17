@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adas-alvikas/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:adas.alvikas@gmail.com)
 
 **Welcome to my GitHub page!**  
-I'm a Software Developer based in Kaunas, Lithuania, with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development. I am available for remote work across the EU.
+I'm a Software Developer based in Kaunas, Lithuania, with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development. I am also available for remote work across the EU.
 
 ## 🔧 Technologies & Tools
 
