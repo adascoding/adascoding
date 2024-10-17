@@ -17,7 +17,6 @@ I'm a Software Developer based in Kaunas, Lithuania, with a strong background in
 ![Blazor](https://img.shields.io/badge/-Blazor-808080?logo=mongodb&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-808080?logo=angular&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-808080?logo=typescript&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 
 ## 💻 Featured Project
