@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adas-alvikas/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:adas.alvikas@gmail.com)
 
 **Welcome to my GitHub page!**  
-I'm a Software Developer based in Kaunas, Lithuania, with a strong background in building robust .NET APIs and a passion for expanding my knowledge in different areas of software development. I am also available for remote work across the EU.
+I’m a Junior Full Stack Developer based in Kaunas, Lithuania, specializing in .NET and React to create responsive, reliable applications. With a passion for continuous learning, I’m always exploring new technologies to expand my skill set. I’m available for on-site work in Lithuania or remote opportunities across the EU and eager to collaborate on impactful projects!
 
 ## 🔧 Technologies & Tools
 
@@ -12,10 +12,9 @@ I'm a Software Developer based in Kaunas, Lithuania, with a strong background in
 
 ## 🌱 What I'm Currently Learning
 - **Blazor**: Expanding my frontend and backend skills with C#.
-- **Angular & React**: Exploring frontend frameworks.
+- **React**: Exploring frontend framework.
   
 ![Blazor](https://img.shields.io/badge/-Blazor-808080?logo=mongodb&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-808080?logo=angular&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-808080?logo=typescript&logoColor=white&style=flat)
 
 
@@ -31,7 +30,6 @@ Description: A RESTful API for restaurant management using .NET, Dapper, and API
 Description: A test project demonstrating a minimal .NET API for URL shortening.
 
 ## 🎯 Goals for 2025
-- Contribute to open-source projects.
-- Build projects with Blazor.
-- Build a frontend project with React or Angular.
-
+- Contribute to open-source projects and give back to the developer community.
+- Build projects using Blazor to strengthen full stack capabilities.
+- Develop a React-based front-end project to refine UI/UX skills.
